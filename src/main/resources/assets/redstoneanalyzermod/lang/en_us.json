@@ -1,0 +1,7 @@
+{
+  "item.redstoneanalyzermod.oscilloscope": "Oscilloscope",
+  "item.redstoneanalyzermod.redstonefrequencyspectrumanalyzer": "Redstone Frequency Spectrum Analyzer",
+  "block.redstoneanalyzermod.andgate": "AND Gate",
+  "block.redstoneanalyzermod.orgate": "OR Gate",
+  "block.redstoneanalyzermod.notgate": "NOT Gate"
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "redstoneanalyzermod:block/orgate" },
+    "facing=south": { "model": "redstoneanalyzermod:block/orgate", "y": 180 },
+    "facing=west":  { "model": "redstoneanalyzermod:block/orgate", "y": 270 },
+    "facing=east":  { "model": "redstoneanalyzermod:block/orgate", "y": 90 }
+  }
+}

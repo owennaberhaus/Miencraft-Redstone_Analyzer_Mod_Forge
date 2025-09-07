@@ -1,0 +1,33 @@
+{
+  "parent": "block/thin_block",
+  "textures": {
+    "particle": "redstoneanalyzermod:block/notgate",
+    "top": "redstoneanalyzermod:block/notgate",
+    "bottom": "redstoneanalyzermod:block/notgate",
+    "side": "redstoneanalyzermod:block/notgate"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 0],
+      "to": [16, 2, 16],
+      "faces": {
+        "up":    { "texture": "#top" },
+        "down":  { "texture": "#bottom" },
+        "north": { "texture": "#side" },
+        "south": { "texture": "#side" },
+        "west":  { "texture": "#side" },
+        "east":  { "texture": "#side" }
+      }
+    },
+    {   "from": [ 7, 2, 3 ],
+      "to": [ 7, 2, 3 ],
+      "faces": {
+        "up":    { "uv": [ 7,  6, 9,  8 ], "texture": "#top" },
+        "north": { "uv": [ 7,  6, 9, 11 ], "texture": "#top" },
+        "south": { "uv": [ 7,  6, 9, 11 ], "texture": "#top" },
+        "west":  { "uv": [ 7,  6, 9, 11 ], "texture": "#top" },
+        "east":  { "uv": [ 7,  6, 9, 11 ], "texture": "#top" }
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "redstoneanalyzermod:block/notgate" },
+    "facing=south": { "model": "redstoneanalyzermod:block/notgate", "y": 180 },
+    "facing=west":  { "model": "redstoneanalyzermod:block/notgate", "y": 270 },
+    "facing=east":  { "model": "redstoneanalyzermod:block/notgate", "y": 90 }
+  }
+}
